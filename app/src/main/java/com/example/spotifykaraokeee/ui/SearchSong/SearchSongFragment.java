@@ -47,7 +47,7 @@ public class SearchSongFragment extends ListFragment implements SearchView.OnQue
         //access token for spotify web api
         access_token1 = (MainActivity.access_token);
 
-        String songTitle = "All we need";
+        String songTitle = "a";
         populateList(songTitle);
 
     }
